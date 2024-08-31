@@ -1,6 +1,8 @@
 Objective 2: PSEUDOCODE
+
 TASK 02:
 Take three variables as input and add them without using the + operator
+
 Pseudocode
 1 START
 2 
@@ -20,15 +22,9 @@ Pseudocode
 16
 17 END
 
-
-
-
-
-
-
-
 TASK 03:
 Create a small calculator which only does ‘+’ or ‘-‘Operations. (Hint: Take three variable inputs with one being used for the operator)
+
 Pseudocode
 1 START
 2 
@@ -55,10 +51,12 @@ Pseudocode
 23 END
 
 
-
 Objective 3: ALGORITHM
-Implement an algorithm for determining if an Nth is a divisor of an n Number (i.e. 2 is a divisor of 6). If so, determine if it’s an even number or odd number as well.
+
 TASK 01:
+Implement an algorithm for determining if an Nth is a divisor of an n Number (i.e. 2 is a divisor of 6). If so, 
+determine if it’s an even number or odd number as well.
+
 1. Ask the user to enter number to be checked (n)
 2. Ask the user to enter number the potential divisor (N)
 3. Check if N is a divisor of n (n % N == 0), then N is a divisor of n.
@@ -70,6 +68,7 @@ TASK 01:
 TASK 02:
 Implement an algorithm for making a simple calculator with all the operators 
 (+,-,*,/,%)
+
 1. Ask the user to enter first number 
 2. Ask the user to enter second number
 3. Ask the user to enter an operator: (+, -, *, /, %)
@@ -81,6 +80,3 @@ Implement an algorithm for making a simple calculator with all the operators
 9. If the operator is % then computes the remainder of num1 divided by num2
 10. Display the result for the user
 11. If the operator is invalid then display an error message.
-
-
-
